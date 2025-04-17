@@ -2,7 +2,7 @@
 
 **Author:** Tyler Ramsbey
 
-Based on the techniques demonstrated in the Pwned Labs lab: **Pivot - GCP IAM Privilege Escalation by Chaining Permissions** ([Pwned Labs](https://pwnedlabs.io/))
+Based on the techniques demonstrated in the Pwned Labs lab: **Pivot - GCP IAM Privilege Escalation by Chaining Permissions** ([Pwned Labs]([https://pwnedlabs.io/](https://pwnedlabs.io/labs/pivot-through-service-accounts-using-dangerous-permissions)))
 
 ---
 
